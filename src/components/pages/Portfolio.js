@@ -44,7 +44,7 @@ export default function Portfolio() {
         <Card.Text>
           Project 3 - Hobbiest Place on Earth
         </Card.Text>
-        <a href="https://hobbiest-place-ons-earth.herokuapp.com/" class="btn btn-primary">Click Here</a>
+        <a href="https://hobbyist-place-on-earth.herokuapp.com/" class="btn btn-primary">Click Here</a>
       </Card.Body>
     </Card>
 
