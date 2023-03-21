@@ -29,7 +29,7 @@ export default function Portfolio() {
 <Card.Body>
 <Card.Title>Planet X</Card.Title>
   <Card.Text>
-    <a href="https://planetxapp-jbe.herokuapp.com/" class="btn btn-primary">Click Here</a>
+    <a href="https://planetx.herokuapp.com/" class="btn btn-primary">Click Here</a>
   </Card.Text>
   
 </Card.Body>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Emil-Latest-Portfolio/static/css/main.6e6df6a6.css",
-    "main.js": "/Emil-Latest-Portfolio/static/js/main.38e94561.js",
+    "main.js": "/Emil-Latest-Portfolio/static/js/main.d97eb57b.js",
     "static/media/headerImg.jpg": "/Emil-Latest-Portfolio/static/media/headerImg.840d8e4a3f6e1db17ff2.jpg",
     "static/media/myphoto.jpg": "/Emil-Latest-Portfolio/static/media/myphoto.65fc2c9e53b26dbb1130.jpg",
     "static/media/Paintedladies.jpeg": "/Emil-Latest-Portfolio/static/media/Paintedladies.6a075f5c18531177d69e.jpeg",
@@ -9,10 +9,10 @@
     "static/media/header-logo.png": "/Emil-Latest-Portfolio/static/media/header-logo.e71d4404e6a0149c06b0.png",
     "index.html": "/Emil-Latest-Portfolio/index.html",
     "main.6e6df6a6.css.map": "/Emil-Latest-Portfolio/static/css/main.6e6df6a6.css.map",
-    "main.38e94561.js.map": "/Emil-Latest-Portfolio/static/js/main.38e94561.js.map"
+    "main.d97eb57b.js.map": "/Emil-Latest-Portfolio/static/js/main.d97eb57b.js.map"
   },
   "entrypoints": [
     "static/css/main.6e6df6a6.css",
-    "static/js/main.38e94561.js"
+    "static/js/main.d97eb57b.js"
   ]
 }
