@@ -29,11 +29,11 @@ export default function Portfolio() {
     <Card style={{ width: '18rem', padding: '20px' }}>
 <Card.Img variant="top" src={planetX} />
 <Card.Body>
-
+<Card.Title>Planet X</Card.Title>
   <Card.Text>
-    Project 2 - PlanetX
+    <a href="https://planetxapp-jbe.herokuapp.com/" class="btn btn-primary">Click Here</a>
   </Card.Text>
-  <a href="https://planetxapp-jbe.herokuapp.com/" class="btn btn-primary">Click Here</a>
+  
 </Card.Body>
 </Card>
 
@@ -42,18 +42,19 @@ export default function Portfolio() {
       <Card.Body>
         <Card.Title>Hobbiest Place On Earth</Card.Title>
         <Card.Text>
-          Project 3 - Hobbiest Place on Earth
+          <a href="https://hobbyist-place-on-earth.herokuapp.com/" class="btn btn-primary">Click Here</a>
+
         </Card.Text>
-        <a href="https://hobbyist-place-on-earth.herokuapp.com/" class="btn btn-primary">Click Here</a>
+        
       </Card.Body>
     </Card>
 
     <Card style={{ width: '18rem', padding: '20px' }}>
     <Card.Img variant="top" src={goldenState} />
 <Card.Body>
-  <Card.Title>Golden State</Card.Title>
+  <Card.Title>Weather Weather</Card.Title>
   <Card.Text>
-    In Progress
+  <a href="https://emil1577.github.io/Weather-Weather/" class="btn btn-primary">Click Here</a>
   </Card.Text>
   <Button variant="primary">In Progress</Button>
 </Card.Body>
