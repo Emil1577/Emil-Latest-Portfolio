@@ -18,11 +18,9 @@ export default function Portfolio() {
     <Card style={{ width: '25rem', padding: '20px' }}>
       <Card.Img variant="top" src={myPetLogo} />
       <Card.Body>
+      <Card.Title>Me Myself and I</Card.Title>
 
-        <Card.Text>
-          Project 1 = Me Myself and I
-        </Card.Text>
-        <a href="https://silkyjazz.github.io/Me-MyPet-AndI/" class="btn btn-primary">Click Here</a>
+        <a href="https://emil1577.github.io/Me-MyPet-AndI/" class="btn btn-primary">Click Here</a>
       </Card.Body>
     </Card>
 
@@ -56,7 +54,7 @@ export default function Portfolio() {
   <Card.Text>
   <a href="https://emil1577.github.io/Weather-Weather/" class="btn btn-primary">Click Here</a>
   </Card.Text>
-  <Button variant="primary">In Progress</Button>
+
 </Card.Body>
 </Card>
 
