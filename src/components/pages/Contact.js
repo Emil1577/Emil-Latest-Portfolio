@@ -7,6 +7,8 @@ export default function Contact() {
   return (
     <CardGroup>
     <Card style={{ width: '60rem', padding: '30px' }}>
+      <h1> This page is under construction </h1>
+      <p> Please reach out through my LinkedIn through the link below this page</p>
     <Form>
       <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
         <Form.Label>Name</Form.Label>

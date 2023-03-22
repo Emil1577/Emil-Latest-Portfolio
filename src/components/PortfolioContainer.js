@@ -58,7 +58,7 @@ export default function PortfolioContainer() {
             <img src={gitHub} style={{height:'65px', padding:'10px'}} ></img>
           </a>
 
-          <a href="https://www.linkedin.com/in/emil-ronquillo-76832a32/" target="_blank" rel="noreferrer">
+          <a href="https://www.linkedin.com/in/emmanuel-ronquillo-76832a32/" target="_blank" rel="noreferrer">
             <img src={linkedIn} style={{height:'65px', padding:'10px'}}></img>
           </a>
 
